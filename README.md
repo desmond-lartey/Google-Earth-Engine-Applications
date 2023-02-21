@@ -1,4 +1,4 @@
-[Random Forest](https://desmond.users.earthengine.app/view/supervised-classification)
+[Random Forest Classification](https://desmond.users.earthengine.app/view/supervised-classification)
 
 [Clustered Algorithm](https://desmond.users.earthengine.app/view/clustered-algorithm-unsupervised-classification)
 
