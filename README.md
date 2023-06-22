@@ -15,3 +15,5 @@
 [Night Light](https://desmond.users.earthengine.app/view/night-light)
 
 [Covid 19 NightLight](https://code.earthengine.google.co.in/b2e136b56d45707b41f0f9b120745c78)
+
+[Water Quality Assessment](https://desmond.users.earthengine.app/view/water-assessments-turbidity-chlorophyl-solids)
